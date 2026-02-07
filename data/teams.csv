@@ -1,0 +1,55 @@
+league,division,team,elo
+Premier League,1,Manchester City,1850
+Premier League,1,Arsenal,1820
+Premier League,1,Liverpool,1810
+Championship,2,Leeds United,1720
+Championship,2,Southampton,1710
+Championship,2,Leicester City,1730
+LaLiga,1,Real Madrid,1860
+LaLiga,1,Barcelona,1840
+LaLiga,1,Atletico Madrid,1790
+LaLiga2,2,Espanyol,1700
+LaLiga2,2,Real Valladolid,1690
+LaLiga2,2,Elche,1680
+Serie A,1,Inter,1830
+Serie A,1,Juventus,1780
+Serie A,1,Milan,1790
+Serie B,2,Parma,1710
+Serie B,2,Sampdoria,1680
+Serie B,2,Cremonese,1695
+Bundesliga,1,Bayern Munich,1865
+Bundesliga,1,Bayer Leverkusen,1825
+Bundesliga,1,Borussia Dortmund,1785
+2. Bundesliga,2,St. Pauli,1705
+2. Bundesliga,2,Fortuna Düsseldorf,1690
+2. Bundesliga,2,Hamburger SV,1700
+Ligue 1,1,Paris Saint-Germain,1855
+Ligue 1,1,Monaco,1765
+Ligue 1,1,Marseille,1750
+Ligue 2,2,Auxerre,1685
+Ligue 2,2,Angers,1675
+Ligue 2,2,St. Étienne,1665
+Eredivisie,1,PSV,1780
+Eredivisie,1,Ajax,1760
+Eredivisie,1,Feyenoord,1770
+Eerste Divisie,2,FC Groningen,1660
+Eerste Divisie,2,De Graafschap,1645
+Eerste Divisie,2,NAC Breda,1655
+Primeira Liga,1,Benfica,1795
+Primeira Liga,1,Porto,1785
+Primeira Liga,1,Sporting CP,1775
+Liga Portugal 2,2,Marítimo,1650
+Liga Portugal 2,2,Leixões,1640
+Liga Portugal 2,2,União de Leiria,1635
+Scottish Premiership,1,Celtic,1765
+Scottish Premiership,1,Rangers,1755
+Scottish Premiership,1,Hearts,1680
+Scottish Championship,2,Dundee United,1665
+Scottish Championship,2,Raith Rovers,1625
+Scottish Championship,2,Partick Thistle,1630
+Belgian Pro League,1,Club Brugge,1745
+Belgian Pro League,1,Union SG,1735
+Belgian Pro League,1,Gent,1710
+Belgian Challenger Pro League,2,Zulte Waregem,1620
+Belgian Challenger Pro League,2,Beerschot,1610
+Belgian Challenger Pro League,2,Lommel,1605
